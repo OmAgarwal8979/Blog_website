@@ -4,8 +4,8 @@ This ia a blog website using mongoDB as its backend database and creates differe
 
 To test the project 
 
-#npm install
+# npm install
 
 Then use 
  
-#node app.js command to run in locathost
+# node app.js command to run in locathost
